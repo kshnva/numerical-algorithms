@@ -1,4 +1,21 @@
-.DS_Store
+# Byte-compiled / optimized / DLL files
 __pycache__/
+*.py[cod]
+*$py.class
 *.pyc
+
+# Jupyter Notebook
 .ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
